@@ -28,6 +28,7 @@ d = "S M Shamiun Ferdous"
 print(d.split()) # split the string into a list
 
 print(d.split("m")) # split the string into a list with a specific separator
+# output: ['S M Sha', 'iun Ferdous']
 
 
 e = "abcdefg"

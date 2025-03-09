@@ -48,3 +48,12 @@ n = [4, 5, 6]
 
 m.extend(n)
 print(m) # Output: [1, 2, 3, 4, 5, 6]
+
+
+# Join 
+k = ['a','b','f']
+print(" ".join(k))
+# output : a b f
+
+print("m".join(k))
+#output : ambmf
