@@ -129,6 +129,11 @@ del sf
 # print(sf)  # Output: NameError: name 'sf' is not defined
 # del keyword deletes the set completely
 
+# checking membership
+numbers_set = {1, 2, 3, 4, 5}
+print(3 in numbers_set)   # Output: True
+print(6 in numbers_set)   # Output: False
+
 
 #Frozen set
 # Frozen set is an immutable version of a set
