@@ -2,8 +2,8 @@
 help of another function passed as an argument to test all the elements to be 
 True or False. Syntax: filter(function,iterables)'''
 
-def is_even(x):
-    return x % 2 == 0
+def is_even(a):
+    return a % 2 == 0
 
 l = [1,2,3,4,5,6,7,8,9,10]
 result = filter(is_even,l)

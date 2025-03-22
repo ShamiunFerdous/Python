@@ -18,7 +18,7 @@ l = [1, 2, 3, 4, 5]
 
 # Find the largest even number using reduce
 result = reduce(even, l)
-print(result)  # Output: 4 
+print(result)  # Output: 4 (max number)
 
 result = reduce(comp, l)
 print(result)  # Output: False 

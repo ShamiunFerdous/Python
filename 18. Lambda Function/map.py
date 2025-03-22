@@ -3,7 +3,7 @@ of a sequence. It returns a new list with the elements changed by the function.
 Syntax: map(function, sequence)'''
 
 def square(x):
-    return x*x
+    return x**2
 
 l = [1,2,3,4,5]
 result = map(square,l)

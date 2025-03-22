@@ -8,7 +8,7 @@ print(sum(10,20))  # Output: 30
 
 
 square = lambda x : x*x
-print(square(5))  # Output: 25
+print(square(3))  # Output: 9
 
 avg = lambda a,b,c : (a+b+c)/3
 print(avg(10,20,30))  # Output: 20.0

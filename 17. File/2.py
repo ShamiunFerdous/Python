@@ -2,8 +2,8 @@ file = open("hello.txt",'w')
 file.write("Hello World")
 file.close()
 
-'''Here it create a file first. Then  write "Hello World" in
-the file. It is open in write mode. After writing the content
+'''Here it create a file first. Then  write "Hello World" in the file. It is
+open in write mode. After writing the content
 it is closed. '''
 
 file = open("hello.txt",'r')

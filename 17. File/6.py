@@ -22,4 +22,5 @@ Line 3: 70 72 77
 """
         
 
-''' readline method is used to read a single line from the file.'''
+''' readline method is used to read a single line from the file.
+Line by line'''
